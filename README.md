@@ -65,6 +65,4 @@ def packet_callback(packet):
 print("Starting packet sniffer...")
 sniff(prn=packet_callback, store=0)
 Contributing
-Feel free to fork the repository, experiment with the code, and contribute to improving the tool! Your feedback and suggestions are most welcome.
-
-License
+Feel free to fork the repository, experiment with the code, and contribute to improving the tool! Your feedback and suggestions are most welcome
