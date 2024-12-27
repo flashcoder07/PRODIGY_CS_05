@@ -1,4 +1,4 @@
-# PRODIGY_CS_05
+# Packet Sniffer
 
 Packet Sniffer Tool
 A simple yet powerful packet sniffer tool built using Python and Scapy.
